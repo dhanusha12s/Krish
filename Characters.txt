@@ -2,3 +2,4 @@ Monkey
 Crocodile
 Tortoise
 Elephant
+Zebra
